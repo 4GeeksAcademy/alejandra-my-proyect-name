@@ -1,0 +1,46 @@
+header{
+    width:100%;
+}
+body{
+    background-color:white ;
+}
+h1{
+    text-align: center;
+    font-family: verdana;
+    font-size: larger;
+}
+.wrapper{
+    background: lightgrey;
+}
+.post{
+    background-color: white;
+    width: 600px;
+    margin:40px auto 40px auto;
+}
+.post-header span{
+    color:lightgrey;
+    padding: 3%;
+}
+.post-header{
+    display:flex;
+    justify-content: space-between;
+}
+.post img{ 
+    width: 100%;
+    height: auto;
+}
+h2{
+    font-family: verdana;
+    font-size: medium;
+}
+.post-text p{
+    padding: 3%;
+    font-family: verdana;
+    font-size: small;
+}
+h3{
+    font-family: verdana;
+    font-size: medium;
+}
+
+
